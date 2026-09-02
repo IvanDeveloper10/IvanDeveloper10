@@ -46,7 +46,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=npm,powershell,postman,processing,pycharm,gmail,&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,css,tailwind,ts,vercel,vite,&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=idea,ai,linkedin,html,notion,vscode,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,ai,linkedin,html,notion,vscode,supabase,&perline=3)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,windows,&perline=3)](https://skillicons.dev)
 
